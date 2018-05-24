@@ -1,0 +1,5 @@
+[Bb]uilds/
+
+# Builds
+*.apk
+*.unitypackage
