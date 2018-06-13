@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a program that displays the status of the robots on the field when using the [PracticeFMS](/MoSadie/PracticeFMS).
+This is a program that displays the status of the robots on the field when using the [PracticeFMS](https://github.com/ORF-4450/PracticeFMS).
 
 ## Features
 
